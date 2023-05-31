@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@300;400;500;600&family=Parisienne&display=swap" rel="stylesheet">
     <script defer src="app.js"></script>
   </head>
 
@@ -27,15 +27,15 @@
 
     <nav class="navbar">
       <ul class="navbar-links">
-        <li><a href="">CHI SIAMO</a></li>
-        <li><a href="">CAMERE</a></li>
-        <li><a href="">SERVIZI</a></li>
-        <li><a href="">CONTATTI</a></li>
+        <li><a href="#chi-siamo">CHI SIAMO</a></li>
+        <li><a href="#camere">CAMERE</a></li>
+        <li><a href="#servizi">SERVIZI</a></li>
+        <li><a href="#contatti">CONTATTI</a></li>
       </ul>
     </nav>
     <hr>
 
-    <h2 class="section-title">Chi siamo</h2>
+    <h2 id="chi-siamo" class="section-title">Chi siamo</h2>
     <div class="chi-siamo">
       <div class="lns-description">
         Lorem ipsum dolor sit amet,
@@ -51,7 +51,7 @@
 
     <hr class="content-hr">
 
-    <h2 class="section-title">Camere</h2>
+    <h2 id="camere" class="section-title">Camere</h2>
     <div class="room-container">
       <div class="slideshow-container">
         <div class="mySlides fade ">
@@ -74,7 +74,7 @@
         <a class="next">❯</a>
       </div>
       <div class="room-description">
-        <h3>CAPRI</h3>
+        <h3 id="capri">Capri</h3>
         <div>
           Lorem ipsum dolor sit amet,
           consectetur adipiscing elit,
@@ -90,7 +90,7 @@
 
     <div class="room-container">
       <div class="room-description">
-        <h3>ISCHIA</h3>
+        <h3 id="ischia">Ischia</h3>
         <div>
           Lorem ipsum dolor sit amet,
           consectetur adipiscing elit,
@@ -146,7 +146,7 @@
         <a class="next">❯</a>
       </div>
       <div class="room-description">
-        <h3>PROCIDA</h3>
+        <h3 id="procida">Procida</h3>
         <div>
           Lorem ipsum dolor sit amet,
           consectetur adipiscing elit,
@@ -162,7 +162,44 @@
 
     <hr class="content-hr">
 
-    <h2 class="section-title">Contatti</h2>
+    <h2 id="services" class="section-title">Servizi</h2>
+    <div class="services">
+      <div class="service-container">
+        <div><img src="/media/services/air-conditioner.svg" alt="air conditioner icon"></div>
+        <div class="subtitle">Aria condizionata</div>
+      </div>
+      <div class="service-container">
+        <div><img src="/media/services/croissant.svg" alt="croissant icon"></div>
+        <div class="subtitle">Colazione inclusa</div>
+      </div>
+      <div class="service-container">
+        <div><img src="/media/services/elevator.svg" alt="elevator icon"></div>
+        <div class="subtitle">Ascensore</div>
+      </div>
+      <div class="service-container">
+        <div><img src="/media/services/netflix.svg" alt="Netflix icon"></div>
+        <div class="subtitle">Netflix</div>
+      </div>
+      <div class="service-container">
+        <div><img src="/media/services/parking.svg" alt="parking icon"></div>
+        <div class="subtitle">Parcheggio privato <br>a pagamento</div>
+      </div>
+      <div class="service-container">
+        <div><img src="/media/services/radiator.svg" alt="radiator icon"></div>
+        <div class="subtitle">Riscaldamento</div>
+      </div>
+      <div class="service-container">
+        <div><img src="/media/services/shower-head.svg" alt="shower head icon"></div>
+        <div class="subtitle">Bagno privato</div>
+      </div>
+      <div class="service-container">
+        <div><img src="/media/services/wifi.svg" alt="wi-fi icon"></div>
+        <div class="subtitle">Wi-Fi Gratuito</div>
+      </div>
+    </div>
+
+
+    <h2 id="contatti" class="section-title">Contatti</h2>
     <div>
       <div>Telefono e Whatsapp</div>
       <div>Dove siamo</div>
