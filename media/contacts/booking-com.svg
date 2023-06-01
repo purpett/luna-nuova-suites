@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   height="50"
+   stroke-linejoin="round"
+   stroke-miterlimit="1.414"
+   viewBox="-.092 .015 2732.125 2671.996"
+   width="50"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="booking-com-seeklogo.com 2.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.20219954"
+     inkscape:cx="1236.4024"
+     inkscape:cy="1446.5908"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <path
+     id="path2"
+     style="stroke:#ffffff;stroke-width:185.31544775;stroke-dasharray:none;stroke-opacity:1;fill:none;fill-opacity:1"
+     d="M 513.02455 0.014547363 C 229.88684 0.014547363 -0.092 229.89006 -0.092 513.03078 L -0.092 2158.9952 C -0.092 2159.6221 -0.00033692169 2160.2259 0.0019167969 2160.8522 L 0.0019167969 2672.0093 L 512.984 2672.0093 C 512.99841 2672.0093 513.01228 2672.0115 513.02669 2672.0115 L 2218.9143 2672.0115 C 2502.054 2672.0115 2732.033 2442.0609 2732.033 2158.9952 L 2732.033 513.03078 C 2732.033 229.89006 2502.054 0.014547363 2218.9143 0.014547363 L 513.02455 0.014547363 z " />
+  <g
+     fill-rule="nonzero"
+     id="g10"
+     style="fill:#ffffff;fill-opacity:1">
+    <path
+       d="m1241.6 1768.638-220.052-.22v-263.12c0-56.22 21.808-85.48 69.917-92.165h150.136c107.068 0 176.328 67.507 176.328 176.766 0 112.219-67.507 178.63-176.328 178.739zm-220.052-709.694v-69.26c0-60.602 25.643-89.424 81.862-93.15h112.657c96.547 0 154.41 57.753 154.41 154.52 0 73.643-39.671 159.67-150.903 159.67h-198.026zm501.037 262.574-39.78-22.356 34.74-29.699c40.437-34.74 108.163-112.876 108.163-247.67 0-206.464-160.109-339.614-407.888-339.614h-282.738v-.11h-32.219c-73.424 2.74-132.273 62.466-133.04 136.329v1171.499h453.586c275.396 0 453.148-149.917 453.148-382.135 0-125.04-57.424-231.889-153.972-286.244"
+       fill="#fff"
+       id="path6"
+       style="fill:#ffffff;fill-opacity:1" />
+    <path
+       d="m1794.688 1828.066c0-89.492 72.178-161.894 161.107-161.894 89.154 0 161.669 72.402 161.669 161.894 0 89.379-72.515 161.894-161.67 161.894-88.928 0-161.106-72.515-161.106-161.894"
+       fill="#00bafc"
+       id="path8"
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
+</svg>
